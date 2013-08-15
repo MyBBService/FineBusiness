@@ -1,0 +1,20 @@
+Fine Business Theme von Kenny, www.mybbservice.de
+--------------------------------------------------------------------------------------------
+
+1) Installation
+
+Ladet die Ordner finebusiness auf euren Webspace/Server in den Forenroot. Also dorthin wo sich auch die index.php, attachment.php u.s.w. befinden.
+Dort befinden sich ALLE Grafiken für dieses Theme.
+
+Geht in das ACP/Templates&Styles auf Theme importieren. Ladet nun die FineBusiness-theme.xml hoch. (Evtl. Versionskompatibilität ignorieren anklicken)
+
+FERTIG!
+
+Nun müsst ihr den neuen Style nur noch als Standard zuweisen und dann habt ihr den neuen Style verfügbar.
+
+--------------------------------------------------------------------------------------------
+NUTZUNGSBEDINGUNGEN
+
+Der Backlink im Footer darf nicht entfernt werden! Eine Non-Copyright Lizenz kann beim Autor erworben werden.
+Alle auf MyBBservice.de erhältlichen Plugins, Themes und Grafiken unterliegen dem Urheberrecht und dürfen weder komplett oder auch nur auszugsweise - ohne schriftliches Einverständnis weitergegeben, verkauft oder anderweitig verwendet bzw. veröffentlicht werden!
+Zuwiderhandlungen werden strafrechtlich verfolgt!
