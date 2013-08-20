@@ -7,6 +7,7 @@
 		<logo><![CDATA[finebusiness/logo.png]]></logo>
 		<tablespace><![CDATA[6]]></tablespace>
 		<borderwidth><![CDATA[0]]></borderwidth>
+		<dlcid><![CDATA[10]]></dlcid>
 	</properties>
 	<stylesheets>
 		<stylesheet name="global.css" version="1609"><![CDATA[html {
