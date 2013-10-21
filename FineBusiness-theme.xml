@@ -21,7 +21,6 @@ body {
 	font-size: 13px;
 	text-align: center; /* IE 5 fix */
 	line-height: 1.4;
-width: 100%;
 letter-spacing: 1px;
 }
 
